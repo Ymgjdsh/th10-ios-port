@@ -32,5 +32,6 @@ The iOS CMake target reads `.local/app-icon/Assets.xcassets` by default;
 Copy the prepared private catalog to the Mac before configuring the iOS build.
 
 The icon is original game content, not an open-source resource. Keep the EXE,
-ICO, PNGs, catalog and icon manifest in private build inputs. The public source
-package includes this tool and documentation, but none of those images.
+ICO, catalog and icon manifest in private build inputs. This repository ships
+the documentation, the tool and the 180 pixel icon used by the README header;
+the remaining icon sizes stay in private build inputs.
