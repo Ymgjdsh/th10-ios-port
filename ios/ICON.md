@@ -33,5 +33,5 @@ Copy the prepared private catalog to the Mac before configuring the iOS build.
 
 The icon is original game content, not an open-source resource. Keep the EXE,
 ICO, catalog and icon manifest in private build inputs. This repository ships
-the documentation, the tool and the 180 pixel icon used by the README header;
-the remaining icon sizes stay in private build inputs.
+the documentation, the tool and the scaled icon used by the README header; the
+remaining icon sizes stay in private build inputs.
