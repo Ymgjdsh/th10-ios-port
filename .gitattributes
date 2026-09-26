@@ -1,0 +1,27 @@
+* text=auto
+
+*.sh text eol=lf
+*.py text eol=lf
+*.mjs text eol=lf
+*.mts text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+*.c text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+*.hpp text eol=lf
+*.mm text eol=lf
+*.plist text eol=lf
+*.in text eol=lf
+*.md text eol=lf
+*.inc text eol=lf
+
+*.png binary
+*.webp binary
+*.woff2 binary
+*.dat binary
+*.ttc binary
+*.ttf binary
+*.ico binary
