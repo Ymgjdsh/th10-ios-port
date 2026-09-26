@@ -62,3 +62,9 @@ The joystick is on the left and Z, X and S are the face buttons: Z is shoot and 
 - Team Shanghai Alice for 東方風神録　～ Mountain of Faith
 - SDL, SDL_ttf and FreeType for the platform and font layers
 - miniaudio, Berkeley SoftFloat and the CC0 eagler-th07 touch policy
+
+## Assets and licensing
+
+This repository does not include the original Touhou executable, archives, music, fonts, replays or saves. The game data, music and fonts are private local build inputs, and a runnable package must be assembled locally from files you are legally allowed to use.
+
+Licensing is component-specific. Keep the notices and licenses beside each bundled component, as they are under `ios/licenses` and the `third_party` directories, and assert no blanket license over the original game or its assets.
