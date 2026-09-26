@@ -58,7 +58,7 @@ The joystick is on the left and Z, X and S are the face buttons: Z is shoot and 
 
 ## Credits
 
-- The [TH10 3.5.1 C++ reconstruction](https://github.com/YomotsuHisami/th10) this branch is built on
+- The [YomotsuHisami/th10](https://github.com/YomotsuHisami/th10) 3.5.1 C++ reconstruction, used for the game logic, animation, ECL, numeric and audio code this branch is built on
 - Team Shanghai Alice for 東方風神録　～ Mountain of Faith
 - SDL, SDL_ttf and FreeType for the platform and font layers
 - miniaudio, Berkeley SoftFloat and the CC0 eagler-th07 touch policy
